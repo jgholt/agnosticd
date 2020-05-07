@@ -5,8 +5,6 @@ The approvers and mergers shouldn't have to interpret and guess by jumping right
 
 <!-- Why this change is going in? -->
 
-<!-- If applicable, what catalog item is using it? What agnosticV config is using it? -->
-
 <!--- HINT: Include "Fixes #nnn" if you are fixing an existing issue -->
 
 
